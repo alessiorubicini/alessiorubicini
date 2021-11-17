@@ -2,7 +2,7 @@
 
 - 📚 I'm a computer science student at University of Camerino, Italy.
 - 📱 I'm a self-taught iOS developer, I love developing useful and cute apps with SwiftUI :)
-- 🔭 I’m currently working on an iOS app for speech to text translation
+- 🔭 I'm not currently working on any project but I'm thinking about some cool ideas
 - 💻 I’m currently learning Java
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
