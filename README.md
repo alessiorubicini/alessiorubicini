@@ -6,6 +6,11 @@
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
 
+[<img align="left" alt="alessiorubicini.altervista.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="alessiorubicini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="alessiorubicini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Linkedin.svg"/>][linkedin]
+[<img align="left" alt="alessiorubicini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
+
 <!--
 **alessiorubicini/alessiorubicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
