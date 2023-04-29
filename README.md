@@ -1,7 +1,8 @@
 ### Hi, I'm @alessiorubicini 👋
 
-- 📚 I'm a computer science student at University of Camerino, Italy
-- 📱 I'm a self-taught iOS developer, I love developing useful and minimal apps with SwiftUI :)
+- 📚 I study Computer Science for digital communication at University of Camerino, Italy
+- 📱 I'm a self-taught iOS developer and I love developing useful, minimal and cute apps for Apple platforms
+- 🌱 I’m currently learning about software design, semantic web and knowledge representation with Java and XML
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
 
