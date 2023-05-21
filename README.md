@@ -2,7 +2,7 @@
 
 - 📚 I study Computer Science for digital communication at University of Camerino, Italy
 - 📱 I'm a self-taught iOS developer and I love developing useful, minimal and cute apps for Apple platforms
-- 🌱 I’m currently learning about software design in Java and basics of knowledge engineering in XML
+- 🌱 I’m currently learning about software design and basics of knowledge engineering
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
 
