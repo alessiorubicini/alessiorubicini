@@ -1,8 +1,8 @@
 ### Hi, I'm @alessiorubicini 👋
 
-- 📚 I study Computer Science for digital communication at University of Camerino, Italy
+- 📚 I study Computer Science for Digital Communication at University of Camerino, Italy
 - 📱 I'm a self-taught iOS developer and I love developing useful, minimal and cute apps for Apple platforms
-- 🌱 I’m currently expanding my portfolio with projects that make use of the latest Apple technologies
+- 🌱 I’m currently learning about software engineering and mobile/web/cloud app development.
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
 
