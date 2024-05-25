@@ -2,7 +2,6 @@
 
 - 📚 I study Computer Science for Digital Communication at University of Camerino, Italy
 - 📱 I'm an iOS developer and I love developing useful, minimal and cute apps and packages for Apple platforms
-- 👨🏻‍💻 I'm currently interning as an iOS developer at [Appload](https://appload.studio), in Corridonia (MC), Italy
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
 
