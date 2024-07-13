@@ -1,4 +1,4 @@
-### Hi, I'm @alessiorubicini 👋
+### Hi, I'm Alessio 👋
 
 - 📚 I study Computer Science at University of Camerino, Italy
 - 📱 I'm an Apple developer and I love developing useful apps and packages for Apple platforms
