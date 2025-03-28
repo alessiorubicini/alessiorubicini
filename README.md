@@ -1,7 +1,8 @@
 ### Hi, I'm Alessio 👋
 
 - 📚 I study Computer Science (Software Development & Technologies) at University of Camerino, Italy
-- 📱 I'm an Apple developer and I love developing useful apps and packages for Apple platforms
+- 📱 I'm an Apple developer and I love developing useful apps and open-source packages for Apple platforms
+- 🥇 Apple WWDC25 Swift Student Challenge Winner
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
 
