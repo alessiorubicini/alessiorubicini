@@ -5,6 +5,7 @@
 - 🥇 Apple WWDC25 Swift Student Challenge Winner
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
+- ☕️ [Buy Me a Coffee](https://buymeacoffee.com/alessiorubicini)
 
 <!--
 **alessiorubicini/alessiorubicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
