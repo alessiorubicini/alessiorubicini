@@ -1,8 +1,8 @@
 ### Hi, I'm Alessio 👋
 
-- 📚 I study Computer Science (Software Development & Technologies) at University of Camerino, Italy
-- 📱 I'm an iOS developer with a passion for product design and user experience. I just love thinking different and crafting things that people use and enjoy.
-- 🥇 In 2025 I've been recognized by Apple as a Swift Student Challenge Winner!
+- 📚 I study Computer Science at University of Camerino, Italy
+- 📱 I'm an app developer with a passion for product design and user experience. I love thinking different and crafting things that people use and enjoy. I mainly work across Apple platforms including iOS, iPadOS and macOS.
+- 🥇 In 2025 I was recognized by Apple as a Swift Student Challenge Winner!
 - 📧 Personal e-mail address: alessiorubicini16@icloud.com
 - 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
 
