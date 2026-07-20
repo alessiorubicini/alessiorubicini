@@ -1,10 +1,8 @@
 ### Hi, I'm Alessio 👋
 
-- 📚 I study Computer Science at University of Camerino, Italy
-- 👨🏻‍💻 I’m an app developer who loves crafting thoughtful, human-centered apps that feel right at home on Apple platforms. I care deeply about design, simplicity, and the small details that make technology feel personal.
+- 👨🏻‍💻 I'm an iOS Developer who's been building for Apple platforms since 2020, first through prototypes and personal projects, then open source. In 2025 I won the Apple Swift Student Challenge, and in 2026 I shipped my first app on the App Store. Today I'm particularly interested in on-device AI, Human-AI interfaces, and shipping amazing products.
 - 🥇 In 2025 I was recognized by Apple as a Swift Student Challenge Winner!
-- 📧 Personal e-mail address: alessiorubicini16@icloud.com
-- 📧 College e-mail address: alessio.rubicini@studenti.unicam.it
+- 📧 Say hello here: alessiorubicini16@icloud.com
 
 <!--
 **alessiorubicini/alessiorubicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
