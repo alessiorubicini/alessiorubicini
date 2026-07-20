@@ -1,8 +1,10 @@
-### Hi, I'm Alessio 👋
+### Hi, I'm Alessio! 👋
 
-- 👨🏻‍💻 I'm an iOS Developer who's been building for Apple platforms since 2020, first through prototypes and personal projects, then open source. In 2025 I won the Apple Swift Student Challenge, and in 2026 I shipped my first app on the App Store. Today I'm particularly interested in on-device AI, Human-AI interfaces, and shipping amazing products.
+- 👨🏻‍💻 I'm an iOS Developer who's been building for Apple platforms since 2020, first through prototypes and personal projects, then open source. I'm particularly interested in on-device AI, Human-AI interfaces, and shipping amazing products.
 - 🥇 In 2025 I was recognized by Apple as a Swift Student Challenge Winner!
-- 📧 Say hello here: alessiorubicini16@icloud.com
+- 🎨 When I'm not coding, I like to take photos, admire the starry sky, travel the world, and write about films, books, and whatever else occupies my head.
+- 📧 Say hello here: [alessiorubicini16@icloud.com](mailto:alessiorubicini16@icloud.com).
+- 👀 You can find more about me [here](https://alessiorubicini.github.io)
 
 <!--
 **alessiorubicini/alessiorubicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
